@@ -1,1 +1,1 @@
-# kushfaldu19-kushfaldu19-CSC-411_PS2_Searching-Agent
+CSC-411-Intro to Artificial Intelligence_PS2_Searching-Agent
